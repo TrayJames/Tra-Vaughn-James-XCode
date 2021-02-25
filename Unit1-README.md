@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.Paste the README temp
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/9yVqgGZmlLRgKMiVlv/giphy.gif" width=250><br>
+<img src="" width=250><br>
 
 ### Notes
 As I am using the macincloud service to build my app I do not have super user priveledges and thuscould not install cocoapods as it required a user password. As a result of this I was unable to complete the final part of the assighnment which asked to us to upload the image as it required the running of such commands that utilized super user privledges.
